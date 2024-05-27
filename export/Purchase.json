@@ -16,11 +16,6 @@
       "className": "Product"
     },
     "quantity": 3,
-    "totalPrice": 269.97,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-01T09:25:00.000Z"
-    },
     "createdAt": "2024-05-26T23:06:56.070Z",
     "updatedAt": "2024-05-26T23:06:56.070Z",
     "objectId": "5zXhnuDGi4",
@@ -43,11 +38,6 @@
       "className": "Product"
     },
     "quantity": 2,
-    "totalPrice": 59.98,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-01T10:45:00.000Z"
-    },
     "createdAt": "2024-05-26T23:07:52.706Z",
     "updatedAt": "2024-05-26T23:07:52.706Z",
     "objectId": "7BKAGgRb5I",
@@ -70,11 +60,6 @@
       "className": "Product"
     },
     "quantity": 3,
-    "totalPrice": 359.97,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-01T09:55:00.000Z"
-    },
     "createdAt": "2024-05-26T23:06:56.070Z",
     "updatedAt": "2024-05-26T23:06:56.070Z",
     "objectId": "7o3WxwfRIB",
@@ -97,11 +82,6 @@
       "className": "Product"
     },
     "quantity": 2,
-    "totalPrice": 59.98,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-01T09:50:00.000Z"
-    },
     "createdAt": "2024-05-26T23:06:56.070Z",
     "updatedAt": "2024-05-26T23:06:56.070Z",
     "objectId": "Bkn0fcDGAd",
@@ -124,11 +104,6 @@
       "className": "Product"
     },
     "quantity": 1,
-    "totalPrice": 59.99,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-01T10:40:00.000Z"
-    },
     "createdAt": "2024-05-26T23:07:52.706Z",
     "updatedAt": "2024-05-26T23:07:52.706Z",
     "objectId": "GTG6FqMsI6",
@@ -151,11 +126,6 @@
       "className": "Product"
     },
     "quantity": 1,
-    "totalPrice": 999,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-01T13:00:00.000Z"
-    },
     "createdAt": "2024-05-26T23:05:45.221Z",
     "updatedAt": "2024-05-26T23:05:45.221Z",
     "objectId": "GlFoW4lCJO",
@@ -178,11 +148,6 @@
       "className": "Product"
     },
     "quantity": 3,
-    "totalPrice": 59.97,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-05-28T15:00:00.000Z"
-    },
     "createdAt": "2024-05-26T23:03:00.177Z",
     "updatedAt": "2024-05-26T23:03:00.177Z",
     "objectId": "H3hyrsEMnU",
@@ -205,11 +170,6 @@
       "className": "Product"
     },
     "quantity": 1,
-    "totalPrice": 49.99,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-01T09:30:00.000Z"
-    },
     "createdAt": "2024-05-26T23:06:56.070Z",
     "updatedAt": "2024-05-26T23:06:56.070Z",
     "objectId": "IVgDTRU7Ja",
@@ -232,11 +192,6 @@
       "className": "Product"
     },
     "quantity": 2,
-    "totalPrice": 399.98,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-01T09:05:00.000Z"
-    },
     "createdAt": "2024-05-26T23:06:56.070Z",
     "updatedAt": "2024-05-26T23:06:56.070Z",
     "objectId": "ItzFvQ1lxj",
@@ -259,11 +214,6 @@
       "className": "Product"
     },
     "quantity": 1,
-    "totalPrice": 19.99,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-01T10:25:00.000Z"
-    },
     "createdAt": "2024-05-26T23:07:52.706Z",
     "updatedAt": "2024-05-26T23:07:52.706Z",
     "objectId": "IyTI2pKO9w",
@@ -286,11 +236,6 @@
       "className": "Product"
     },
     "quantity": 2,
-    "totalPrice": 399.98,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-02T09:05:00.000Z"
-    },
     "createdAt": "2024-05-26T23:08:21.027Z",
     "updatedAt": "2024-05-26T23:08:21.027Z",
     "objectId": "JXlDlUvkk8",
@@ -313,11 +258,6 @@
       "className": "Product"
     },
     "quantity": 1,
-    "totalPrice": 19.99,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-02T09:30:00.000Z"
-    },
     "createdAt": "2024-05-26T23:08:21.027Z",
     "updatedAt": "2024-05-26T23:08:21.027Z",
     "objectId": "MGCCUMilSi",
@@ -340,11 +280,6 @@
       "className": "Product"
     },
     "quantity": 3,
-    "totalPrice": 59.97,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-01T09:10:00.000Z"
-    },
     "createdAt": "2024-05-26T23:06:56.070Z",
     "updatedAt": "2024-05-26T23:06:56.070Z",
     "objectId": "P9iJTht8MH",
@@ -367,11 +302,6 @@
       "className": "Product"
     },
     "quantity": 1,
-    "totalPrice": 49.99,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-01T10:30:00.000Z"
-    },
     "createdAt": "2024-05-26T23:07:52.706Z",
     "updatedAt": "2024-05-26T23:07:52.706Z",
     "objectId": "QZ9hIZG8jJ",
@@ -394,11 +324,6 @@
       "className": "Product"
     },
     "quantity": 3,
-    "totalPrice": 44.97,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-01T10:20:00.000Z"
-    },
     "createdAt": "2024-05-26T23:07:52.706Z",
     "updatedAt": "2024-05-26T23:07:52.706Z",
     "objectId": "SLqEBxevyK",
@@ -421,11 +346,6 @@
       "className": "Product"
     },
     "quantity": 2,
-    "totalPrice": 59.98,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-01T10:15:00.000Z"
-    },
     "createdAt": "2024-05-26T23:07:52.706Z",
     "updatedAt": "2024-05-26T23:07:52.706Z",
     "objectId": "VYeqNQIQx4",
@@ -448,11 +368,6 @@
       "className": "Product"
     },
     "quantity": 1,
-    "totalPrice": 29.99,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-01T09:15:00.000Z"
-    },
     "createdAt": "2024-05-26T23:06:56.070Z",
     "updatedAt": "2024-05-26T23:06:56.070Z",
     "objectId": "XTcYQ7HlnE",
@@ -475,11 +390,6 @@
       "className": "Product"
     },
     "quantity": 1,
-    "totalPrice": 59.99,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-02T09:15:00.000Z"
-    },
     "createdAt": "2024-05-26T23:08:21.027Z",
     "updatedAt": "2024-05-26T23:08:21.027Z",
     "objectId": "Z1zkm8CGbT",
@@ -502,11 +412,6 @@
       "className": "Product"
     },
     "quantity": 3,
-    "totalPrice": 44.97,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-01T09:40:00.000Z"
-    },
     "createdAt": "2024-05-26T23:06:56.070Z",
     "updatedAt": "2024-05-26T23:06:56.070Z",
     "objectId": "Zwq3hGg4PH",
@@ -529,11 +434,6 @@
       "className": "Product"
     },
     "quantity": 3,
-    "totalPrice": 269.97,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-02T09:20:00.000Z"
-    },
     "createdAt": "2024-05-26T23:08:21.027Z",
     "updatedAt": "2024-05-26T23:08:21.027Z",
     "objectId": "axMTlLgp7C",
@@ -556,11 +456,6 @@
       "className": "Product"
     },
     "quantity": 1,
-    "totalPrice": 49.99,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-02T09:25:00.000Z"
-    },
     "createdAt": "2024-05-26T23:08:21.027Z",
     "updatedAt": "2024-05-26T23:08:21.027Z",
     "objectId": "bBNKcMN4Ck",
@@ -583,11 +478,6 @@
       "className": "Product"
     },
     "quantity": 2,
-    "totalPrice": 59.98,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-02T09:10:00.000Z"
-    },
     "createdAt": "2024-05-26T23:08:21.027Z",
     "updatedAt": "2024-05-26T23:08:21.027Z",
     "objectId": "bCnJIuxyeP",
@@ -610,11 +500,6 @@
       "className": "Product"
     },
     "quantity": 3,
-    "totalPrice": 59.97,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-01T10:50:00.000Z"
-    },
     "createdAt": "2024-05-26T23:07:52.706Z",
     "updatedAt": "2024-05-26T23:07:52.706Z",
     "objectId": "c5dEKROwvF",
@@ -637,11 +522,6 @@
       "className": "Product"
     },
     "quantity": 2,
-    "totalPrice": 399.98,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-01T10:55:00.000Z"
-    },
     "createdAt": "2024-05-26T23:07:52.706Z",
     "updatedAt": "2024-05-26T23:07:52.706Z",
     "objectId": "dEcRCupHGb",
@@ -664,11 +544,6 @@
       "className": "Product"
     },
     "quantity": 2,
-    "totalPrice": 179.98,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-01T10:35:00.000Z"
-    },
     "createdAt": "2024-05-26T23:07:52.706Z",
     "updatedAt": "2024-05-26T23:07:52.706Z",
     "objectId": "dkIjHEpS9F",
@@ -691,11 +566,6 @@
       "className": "Product"
     },
     "quantity": 1,
-    "totalPrice": 29.99,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-01T09:45:00.000Z"
-    },
     "createdAt": "2024-05-26T23:06:56.070Z",
     "updatedAt": "2024-05-26T23:06:56.070Z",
     "objectId": "dztaHtSrJm",
@@ -718,11 +588,6 @@
       "className": "Product"
     },
     "quantity": 1,
-    "totalPrice": 799.99,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-01T11:00:00.000Z"
-    },
     "createdAt": "2024-05-26T23:07:52.706Z",
     "updatedAt": "2024-05-26T23:07:52.706Z",
     "objectId": "f1boIRTydh",
@@ -745,11 +610,6 @@
       "className": "Product"
     },
     "quantity": 1,
-    "totalPrice": 999,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-05-26T23:10:00.000Z"
-    },
     "createdAt": "2024-05-26T23:03:00.168Z",
     "updatedAt": "2024-05-26T23:03:00.168Z",
     "objectId": "igwh1nMcwX",
@@ -772,11 +632,6 @@
       "className": "Product"
     },
     "quantity": 3,
-    "totalPrice": 89.97,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-01T10:10:00.000Z"
-    },
     "createdAt": "2024-05-26T23:07:52.706Z",
     "updatedAt": "2024-05-26T23:07:52.706Z",
     "objectId": "lJcXxIMhvG",
@@ -799,11 +654,6 @@
       "className": "Product"
     },
     "quantity": 1,
-    "totalPrice": 119.99,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-01T10:05:00.000Z"
-    },
     "createdAt": "2024-05-26T23:07:52.706Z",
     "updatedAt": "2024-05-26T23:07:52.706Z",
     "objectId": "rpNu0nnmYF",
@@ -826,11 +676,6 @@
       "className": "Product"
     },
     "quantity": 2,
-    "totalPrice": 119.98,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-01T09:20:00.000Z"
-    },
     "createdAt": "2024-05-26T23:06:56.070Z",
     "updatedAt": "2024-05-26T23:06:56.070Z",
     "objectId": "toIzvlx5TR",
@@ -853,11 +698,6 @@
       "className": "Product"
     },
     "quantity": 1,
-    "totalPrice": 799.99,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-01T09:00:00.000Z"
-    },
     "createdAt": "2024-05-26T23:06:56.070Z",
     "updatedAt": "2024-05-26T23:06:56.070Z",
     "objectId": "v2svW6gfRZ",
@@ -880,11 +720,6 @@
       "className": "Product"
     },
     "quantity": 2,
-    "totalPrice": 259.98,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-05-27T10:00:00.000Z"
-    },
     "createdAt": "2024-05-26T23:03:00.174Z",
     "updatedAt": "2024-05-26T23:03:00.174Z",
     "objectId": "vToPQ0wmVN",
@@ -907,11 +742,6 @@
       "className": "Product"
     },
     "quantity": 2,
-    "totalPrice": 1998,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-01T10:00:00.000Z"
-    },
     "createdAt": "2024-05-26T23:07:52.706Z",
     "updatedAt": "2024-05-26T23:07:52.706Z",
     "objectId": "wffK11QOat",
@@ -934,11 +764,6 @@
       "className": "Product"
     },
     "quantity": 2,
-    "totalPrice": 39.98,
-    "purchaseDate": {
-      "__type": "Date",
-      "iso": "2024-06-01T09:35:00.000Z"
-    },
     "createdAt": "2024-05-26T23:06:56.070Z",
     "updatedAt": "2024-05-26T23:06:56.070Z",
     "objectId": "zDzORCMEeQ",
