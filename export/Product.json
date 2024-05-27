@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Running Shoes",
+    "description": "Lightweight and comfortable shoes for running",
+    "price": 119.99,
+    "inStock": true,
+    "createdAt": "2024-05-26T23:04:42.275Z",
+    "updatedAt": "2024-05-26T23:04:42.275Z",
+    "categories": {
+      "__type": "Relation",
+      "className": "ProductCategory"
+    },
+    "objectId": "33rJxh9SjZ",
+    "className": "Product"
+  },
+  {
+    "name": "4K Television",
+    "description": "Ultra HD smart TV with a 54-inch screen",
+    "price": 799.99,
+    "inStock": true,
+    "createdAt": "2024-05-26T23:04:42.303Z",
+    "updatedAt": "2024-05-26T23:16:06.222Z",
+    "categories": {
+      "__type": "Relation",
+      "className": "ProductCategory"
+    },
+    "objectId": "8O2D1egX51",
+    "className": "Product"
+  },
+  {
+    "name": "Espresso Machine",
+    "description": "Italian-style espresso maker with steaming wand",
+    "price": 199.99,
+    "inStock": true,
+    "createdAt": "2024-05-26T23:04:42.294Z",
+    "updatedAt": "2024-05-26T23:16:06.237Z",
+    "categories": {
+      "__type": "Relation",
+      "className": "ProductCategory"
+    },
+    "objectId": "8PodlEps2R",
+    "className": "Product"
+  },
+  {
+    "name": "Blender",
+    "description": "Multi-function blender with various speed settings",
+    "price": 49.99,
+    "inStock": true,
+    "createdAt": "2024-05-26T23:04:42.284Z",
+    "updatedAt": "2024-05-26T23:16:06.231Z",
+    "categories": {
+      "__type": "Relation",
+      "className": "ProductCategory"
+    },
+    "objectId": "Cq3Hqww69Q",
+    "className": "Product"
+  },
+  {
+    "name": "Lego Star Wars Set",
+    "description": "Interlocking brick set from the Star Wars series",
+    "price": 89.99,
+    "inStock": true,
+    "createdAt": "2024-05-26T23:04:42.280Z",
+    "updatedAt": "2024-05-26T23:16:06.231Z",
+    "categories": {
+      "__type": "Relation",
+      "className": "ProductCategory"
+    },
+    "objectId": "D52rByzquN",
+    "className": "Product"
+  },
+  {
+    "name": "Face Cream",
+    "description": "Moisturizing face cream for all skin types",
+    "price": 29.99,
+    "inStock": true,
+    "createdAt": "2024-05-26T23:04:42.291Z",
+    "updatedAt": "2024-05-26T23:16:06.233Z",
+    "categories": {
+      "__type": "Relation",
+      "className": "ProductCategory"
+    },
+    "objectId": "RriSWMDg48",
+    "className": "Product"
+  },
+  {
+    "name": "Hair Dryer",
+    "description": "Professional hair dryer with multiple settings",
+    "price": 59.99,
+    "inStock": true,
+    "createdAt": "2024-05-26T23:04:42.287Z",
+    "updatedAt": "2024-05-26T23:16:06.235Z",
+    "categories": {
+      "__type": "Relation",
+      "className": "ProductCategory"
+    },
+    "objectId": "S15WrDgrpk",
+    "className": "Product"
+  },
+  {
+    "name": "Science Fiction Novel",
+    "description": "A journey through space and time",
+    "price": 19.99,
+    "inStock": true,
+    "createdAt": "2024-05-26T23:02:48.505Z",
+    "updatedAt": "2024-05-26T23:02:48.505Z",
+    "categories": {
+      "__type": "Relation",
+      "className": "ProductCategory"
+    },
+    "objectId": "SA5mUfq9Ll",
+    "className": "Product"
+  },
+  {
+    "name": "Lipstick",
+    "description": "Matte lipstick available in various shades",
+    "price": 19.99,
+    "inStock": true,
+    "createdAt": "2024-05-26T23:04:42.285Z",
+    "updatedAt": "2024-05-26T23:16:06.240Z",
+    "categories": {
+      "__type": "Relation",
+      "className": "ProductCategory"
+    },
+    "objectId": "U6GBzni9EJ",
+    "className": "Product"
+  },
+  {
+    "name": "Winter Jacket",
+    "description": "Warm and cozy for the chilly weather",
+    "price": 129.99,
+    "inStock": true,
+    "createdAt": "2024-05-26T23:02:48.503Z",
+    "updatedAt": "2024-05-26T23:02:48.503Z",
+    "categories": {
+      "__type": "Relation",
+      "className": "ProductCategory"
+    },
+    "objectId": "UKeOHJkJ7l",
+    "className": "Product"
+  },
+  {
+    "name": "Action Figure",
+    "description": "Collectible action figure from a popular movie",
+    "price": 14.99,
+    "inStock": true,
+    "createdAt": "2024-05-26T23:04:42.285Z",
+    "updatedAt": "2024-05-26T23:16:06.240Z",
+    "categories": {
+      "__type": "Relation",
+      "className": "ProductCategory"
+    },
+    "objectId": "b4xEMQXYED",
+    "className": "Product"
+  },
+  {
+    "name": "Yoga Mat",
+    "description": "Non-slip yoga mat with carrying strap",
+    "price": 19.99,
+    "inStock": true,
+    "createdAt": "2024-05-26T23:04:42.293Z",
+    "updatedAt": "2024-05-26T23:16:06.239Z",
+    "categories": {
+      "__type": "Relation",
+      "className": "ProductCategory"
+    },
+    "objectId": "fV0DFPFlnz",
+    "className": "Product"
+  },
+  {
+    "name": "Smartphone",
+    "description": "Latest model with advanced features",
+    "price": 999,
+    "inStock": true,
+    "createdAt": "2024-05-26T23:02:48.508Z",
+    "updatedAt": "2024-05-26T23:02:48.508Z",
+    "categories": {
+      "__type": "Relation",
+      "className": "ProductCategory"
+    },
+    "objectId": "gA4zn19Udo",
+    "className": "Product"
+  },
+  {
+    "name": "Board Game",
+    "description": "Family friendly cooperative board game",
+    "price": 29.99,
+    "inStock": true,
+    "createdAt": "2024-05-26T23:04:42.275Z",
+    "updatedAt": "2024-05-26T23:04:42.275Z",
+    "categories": {
+      "__type": "Relation",
+      "className": "ProductCategory"
+    },
+    "objectId": "j3amt1fKZI",
+    "className": "Product"
+  },
+  {
+    "name": "Basketball",
+    "description": "Official size and weight basketball",
+    "price": 29.99,
+    "inStock": true,
+    "createdAt": "2024-05-26T23:04:42.284Z",
+    "updatedAt": "2024-05-26T23:04:42.284Z",
+    "categories": {
+      "__type": "Relation",
+      "className": "ProductCategory"
+    },
+    "objectId": "kXW4bufhFr",
+    "className": "Product"
+  }
+]

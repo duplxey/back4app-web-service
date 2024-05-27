@@ -1,0 +1,947 @@
+[
+  {
+    "product": {
+      "name": "Lego Star Wars Set",
+      "description": "Interlocking brick set from the Star Wars series",
+      "price": 89.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.280Z",
+      "updatedAt": "2024-05-26T23:16:06.231Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "D52rByzquN",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 3,
+    "totalPrice": 269.97,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-01T09:25:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:06:56.070Z",
+    "updatedAt": "2024-05-26T23:06:56.070Z",
+    "objectId": "5zXhnuDGi4",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Face Cream",
+      "description": "Moisturizing face cream for all skin types",
+      "price": 29.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.291Z",
+      "updatedAt": "2024-05-26T23:16:06.233Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "RriSWMDg48",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 2,
+    "totalPrice": 59.98,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-01T10:45:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:07:52.706Z",
+    "updatedAt": "2024-05-26T23:07:52.706Z",
+    "objectId": "7BKAGgRb5I",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Running Shoes",
+      "description": "Lightweight and comfortable shoes for running",
+      "price": 119.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.275Z",
+      "updatedAt": "2024-05-26T23:04:42.275Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "33rJxh9SjZ",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 3,
+    "totalPrice": 359.97,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-01T09:55:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:06:56.070Z",
+    "updatedAt": "2024-05-26T23:06:56.070Z",
+    "objectId": "7o3WxwfRIB",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Board Game",
+      "description": "Family friendly cooperative board game",
+      "price": 29.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.275Z",
+      "updatedAt": "2024-05-26T23:04:42.275Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "j3amt1fKZI",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 2,
+    "totalPrice": 59.98,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-01T09:50:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:06:56.070Z",
+    "updatedAt": "2024-05-26T23:06:56.070Z",
+    "objectId": "Bkn0fcDGAd",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Hair Dryer",
+      "description": "Professional hair dryer with multiple settings",
+      "price": 59.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.287Z",
+      "updatedAt": "2024-05-26T23:16:06.235Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "S15WrDgrpk",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 1,
+    "totalPrice": 59.99,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-01T10:40:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:07:52.706Z",
+    "updatedAt": "2024-05-26T23:07:52.706Z",
+    "objectId": "GTG6FqMsI6",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Smartphone",
+      "description": "Latest model with advanced features",
+      "price": 999,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:02:48.508Z",
+      "updatedAt": "2024-05-26T23:02:48.508Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "gA4zn19Udo",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 1,
+    "totalPrice": 999,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-01T13:00:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:05:45.221Z",
+    "updatedAt": "2024-05-26T23:05:45.221Z",
+    "objectId": "GlFoW4lCJO",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Science Fiction Novel",
+      "description": "A journey through space and time",
+      "price": 19.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:02:48.505Z",
+      "updatedAt": "2024-05-26T23:02:48.505Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "SA5mUfq9Ll",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 3,
+    "totalPrice": 59.97,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-05-28T15:00:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:03:00.177Z",
+    "updatedAt": "2024-05-26T23:03:00.177Z",
+    "objectId": "H3hyrsEMnU",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Blender",
+      "description": "Multi-function blender with various speed settings",
+      "price": 49.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.284Z",
+      "updatedAt": "2024-05-26T23:16:06.231Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "Cq3Hqww69Q",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 1,
+    "totalPrice": 49.99,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-01T09:30:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:06:56.070Z",
+    "updatedAt": "2024-05-26T23:06:56.070Z",
+    "objectId": "IVgDTRU7Ja",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Espresso Machine",
+      "description": "Italian-style espresso maker with steaming wand",
+      "price": 199.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.294Z",
+      "updatedAt": "2024-05-26T23:16:06.237Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "8PodlEps2R",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 2,
+    "totalPrice": 399.98,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-01T09:05:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:06:56.070Z",
+    "updatedAt": "2024-05-26T23:06:56.070Z",
+    "objectId": "ItzFvQ1lxj",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Lipstick",
+      "description": "Matte lipstick available in various shades",
+      "price": 19.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.285Z",
+      "updatedAt": "2024-05-26T23:16:06.240Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "U6GBzni9EJ",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 1,
+    "totalPrice": 19.99,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-01T10:25:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:07:52.706Z",
+    "updatedAt": "2024-05-26T23:07:52.706Z",
+    "objectId": "IyTI2pKO9w",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Espresso Machine",
+      "description": "Italian-style espresso maker with steaming wand",
+      "price": 199.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.294Z",
+      "updatedAt": "2024-05-26T23:16:06.237Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "8PodlEps2R",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 2,
+    "totalPrice": 399.98,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-02T09:05:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:08:21.027Z",
+    "updatedAt": "2024-05-26T23:08:21.027Z",
+    "objectId": "JXlDlUvkk8",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Lipstick",
+      "description": "Matte lipstick available in various shades",
+      "price": 19.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.285Z",
+      "updatedAt": "2024-05-26T23:16:06.240Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "U6GBzni9EJ",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 1,
+    "totalPrice": 19.99,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-02T09:30:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:08:21.027Z",
+    "updatedAt": "2024-05-26T23:08:21.027Z",
+    "objectId": "MGCCUMilSi",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Yoga Mat",
+      "description": "Non-slip yoga mat with carrying strap",
+      "price": 19.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.293Z",
+      "updatedAt": "2024-05-26T23:16:06.239Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "fV0DFPFlnz",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 3,
+    "totalPrice": 59.97,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-01T09:10:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:06:56.070Z",
+    "updatedAt": "2024-05-26T23:06:56.070Z",
+    "objectId": "P9iJTht8MH",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Blender",
+      "description": "Multi-function blender with various speed settings",
+      "price": 49.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.284Z",
+      "updatedAt": "2024-05-26T23:16:06.231Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "Cq3Hqww69Q",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 1,
+    "totalPrice": 49.99,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-01T10:30:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:07:52.706Z",
+    "updatedAt": "2024-05-26T23:07:52.706Z",
+    "objectId": "QZ9hIZG8jJ",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Action Figure",
+      "description": "Collectible action figure from a popular movie",
+      "price": 14.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.285Z",
+      "updatedAt": "2024-05-26T23:16:06.240Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "b4xEMQXYED",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 3,
+    "totalPrice": 44.97,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-01T10:20:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:07:52.706Z",
+    "updatedAt": "2024-05-26T23:07:52.706Z",
+    "objectId": "SLqEBxevyK",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Basketball",
+      "description": "Official size and weight basketball",
+      "price": 29.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.284Z",
+      "updatedAt": "2024-05-26T23:04:42.284Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "kXW4bufhFr",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 2,
+    "totalPrice": 59.98,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-01T10:15:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:07:52.706Z",
+    "updatedAt": "2024-05-26T23:07:52.706Z",
+    "objectId": "VYeqNQIQx4",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Face Cream",
+      "description": "Moisturizing face cream for all skin types",
+      "price": 29.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.291Z",
+      "updatedAt": "2024-05-26T23:16:06.233Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "RriSWMDg48",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 1,
+    "totalPrice": 29.99,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-01T09:15:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:06:56.070Z",
+    "updatedAt": "2024-05-26T23:06:56.070Z",
+    "objectId": "XTcYQ7HlnE",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Hair Dryer",
+      "description": "Professional hair dryer with multiple settings",
+      "price": 59.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.287Z",
+      "updatedAt": "2024-05-26T23:16:06.235Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "S15WrDgrpk",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 1,
+    "totalPrice": 59.99,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-02T09:15:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:08:21.027Z",
+    "updatedAt": "2024-05-26T23:08:21.027Z",
+    "objectId": "Z1zkm8CGbT",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Action Figure",
+      "description": "Collectible action figure from a popular movie",
+      "price": 14.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.285Z",
+      "updatedAt": "2024-05-26T23:16:06.240Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "b4xEMQXYED",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 3,
+    "totalPrice": 44.97,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-01T09:40:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:06:56.070Z",
+    "updatedAt": "2024-05-26T23:06:56.070Z",
+    "objectId": "Zwq3hGg4PH",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Lego Star Wars Set",
+      "description": "Interlocking brick set from the Star Wars series",
+      "price": 89.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.280Z",
+      "updatedAt": "2024-05-26T23:16:06.231Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "D52rByzquN",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 3,
+    "totalPrice": 269.97,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-02T09:20:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:08:21.027Z",
+    "updatedAt": "2024-05-26T23:08:21.027Z",
+    "objectId": "axMTlLgp7C",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Blender",
+      "description": "Multi-function blender with various speed settings",
+      "price": 49.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.284Z",
+      "updatedAt": "2024-05-26T23:16:06.231Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "Cq3Hqww69Q",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 1,
+    "totalPrice": 49.99,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-02T09:25:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:08:21.027Z",
+    "updatedAt": "2024-05-26T23:08:21.027Z",
+    "objectId": "bBNKcMN4Ck",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Face Cream",
+      "description": "Moisturizing face cream for all skin types",
+      "price": 29.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.291Z",
+      "updatedAt": "2024-05-26T23:16:06.233Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "RriSWMDg48",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 2,
+    "totalPrice": 59.98,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-02T09:10:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:08:21.027Z",
+    "updatedAt": "2024-05-26T23:08:21.027Z",
+    "objectId": "bCnJIuxyeP",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Yoga Mat",
+      "description": "Non-slip yoga mat with carrying strap",
+      "price": 19.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.293Z",
+      "updatedAt": "2024-05-26T23:16:06.239Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "fV0DFPFlnz",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 3,
+    "totalPrice": 59.97,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-01T10:50:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:07:52.706Z",
+    "updatedAt": "2024-05-26T23:07:52.706Z",
+    "objectId": "c5dEKROwvF",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Espresso Machine",
+      "description": "Italian-style espresso maker with steaming wand",
+      "price": 199.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.294Z",
+      "updatedAt": "2024-05-26T23:16:06.237Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "8PodlEps2R",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 2,
+    "totalPrice": 399.98,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-01T10:55:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:07:52.706Z",
+    "updatedAt": "2024-05-26T23:07:52.706Z",
+    "objectId": "dEcRCupHGb",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Lego Star Wars Set",
+      "description": "Interlocking brick set from the Star Wars series",
+      "price": 89.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.280Z",
+      "updatedAt": "2024-05-26T23:16:06.231Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "D52rByzquN",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 2,
+    "totalPrice": 179.98,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-01T10:35:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:07:52.706Z",
+    "updatedAt": "2024-05-26T23:07:52.706Z",
+    "objectId": "dkIjHEpS9F",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Basketball",
+      "description": "Official size and weight basketball",
+      "price": 29.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.284Z",
+      "updatedAt": "2024-05-26T23:04:42.284Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "kXW4bufhFr",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 1,
+    "totalPrice": 29.99,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-01T09:45:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:06:56.070Z",
+    "updatedAt": "2024-05-26T23:06:56.070Z",
+    "objectId": "dztaHtSrJm",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "4K Television",
+      "description": "Ultra HD smart TV with a 54-inch screen",
+      "price": 799.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.303Z",
+      "updatedAt": "2024-05-26T23:16:06.222Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "8O2D1egX51",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 1,
+    "totalPrice": 799.99,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-01T11:00:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:07:52.706Z",
+    "updatedAt": "2024-05-26T23:07:52.706Z",
+    "objectId": "f1boIRTydh",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Smartphone",
+      "description": "Latest model with advanced features",
+      "price": 999,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:02:48.508Z",
+      "updatedAt": "2024-05-26T23:02:48.508Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "gA4zn19Udo",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 1,
+    "totalPrice": 999,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-05-26T23:10:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:03:00.168Z",
+    "updatedAt": "2024-05-26T23:03:00.168Z",
+    "objectId": "igwh1nMcwX",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Board Game",
+      "description": "Family friendly cooperative board game",
+      "price": 29.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.275Z",
+      "updatedAt": "2024-05-26T23:04:42.275Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "j3amt1fKZI",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 3,
+    "totalPrice": 89.97,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-01T10:10:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:07:52.706Z",
+    "updatedAt": "2024-05-26T23:07:52.706Z",
+    "objectId": "lJcXxIMhvG",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Running Shoes",
+      "description": "Lightweight and comfortable shoes for running",
+      "price": 119.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.275Z",
+      "updatedAt": "2024-05-26T23:04:42.275Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "33rJxh9SjZ",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 1,
+    "totalPrice": 119.99,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-01T10:05:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:07:52.706Z",
+    "updatedAt": "2024-05-26T23:07:52.706Z",
+    "objectId": "rpNu0nnmYF",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Hair Dryer",
+      "description": "Professional hair dryer with multiple settings",
+      "price": 59.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.287Z",
+      "updatedAt": "2024-05-26T23:16:06.235Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "S15WrDgrpk",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 2,
+    "totalPrice": 119.98,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-01T09:20:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:06:56.070Z",
+    "updatedAt": "2024-05-26T23:06:56.070Z",
+    "objectId": "toIzvlx5TR",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "4K Television",
+      "description": "Ultra HD smart TV with a 54-inch screen",
+      "price": 799.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.303Z",
+      "updatedAt": "2024-05-26T23:16:06.222Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "8O2D1egX51",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 1,
+    "totalPrice": 799.99,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-01T09:00:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:06:56.070Z",
+    "updatedAt": "2024-05-26T23:06:56.070Z",
+    "objectId": "v2svW6gfRZ",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Winter Jacket",
+      "description": "Warm and cozy for the chilly weather",
+      "price": 129.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:02:48.503Z",
+      "updatedAt": "2024-05-26T23:02:48.503Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "UKeOHJkJ7l",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 2,
+    "totalPrice": 259.98,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-05-27T10:00:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:03:00.174Z",
+    "updatedAt": "2024-05-26T23:03:00.174Z",
+    "objectId": "vToPQ0wmVN",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Smartphone",
+      "description": "Latest model with advanced features",
+      "price": 999,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:02:48.508Z",
+      "updatedAt": "2024-05-26T23:02:48.508Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "gA4zn19Udo",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 2,
+    "totalPrice": 1998,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-01T10:00:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:07:52.706Z",
+    "updatedAt": "2024-05-26T23:07:52.706Z",
+    "objectId": "wffK11QOat",
+    "className": "Purchase"
+  },
+  {
+    "product": {
+      "name": "Lipstick",
+      "description": "Matte lipstick available in various shades",
+      "price": 19.99,
+      "inStock": true,
+      "createdAt": "2024-05-26T23:04:42.285Z",
+      "updatedAt": "2024-05-26T23:16:06.240Z",
+      "categories": {
+        "__type": "Relation",
+        "className": "ProductCategory"
+      },
+      "objectId": "U6GBzni9EJ",
+      "__type": "Object",
+      "className": "Product"
+    },
+    "quantity": 2,
+    "totalPrice": 39.98,
+    "purchaseDate": {
+      "__type": "Date",
+      "iso": "2024-06-01T09:35:00.000Z"
+    },
+    "createdAt": "2024-05-26T23:06:56.070Z",
+    "updatedAt": "2024-05-26T23:06:56.070Z",
+    "objectId": "zDzORCMEeQ",
+    "className": "Purchase"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Fitness & Sports",
+    "description": "Sports equipment and fitness gear",
+    "createdAt": "2024-05-26T23:04:08.543Z",
+    "updatedAt": "2024-05-26T23:04:08.543Z",
+    "objectId": "K3jhIPjrE9",
+    "className": "ProductCategory"
+  },
+  {
+    "name": "Home Appliances",
+    "description": "Appliances and electronics for domestic use",
+    "createdAt": "2024-05-26T23:04:08.537Z",
+    "updatedAt": "2024-05-26T23:04:08.537Z",
+    "objectId": "LdQlTUTHPb",
+    "className": "ProductCategory"
+  },
+  {
+    "name": "Beauty & Personal Care",
+    "description": "Cosmetics and personal care products",
+    "createdAt": "2024-05-26T23:04:08.541Z",
+    "updatedAt": "2024-05-26T23:04:08.541Z",
+    "objectId": "SKuYaTBcYk",
+    "className": "ProductCategory"
+  },
+  {
+    "name": "Books",
+    "description": "Reading material for every age group",
+    "createdAt": "2024-05-26T22:59:56.808Z",
+    "updatedAt": "2024-05-26T22:59:56.808Z",
+    "objectId": "cteZ8HPMv7",
+    "className": "ProductCategory"
+  },
+  {
+    "name": "Clothing",
+    "description": "Apparel for all seasons",
+    "createdAt": "2024-05-26T22:59:02.147Z",
+    "updatedAt": "2024-05-26T22:59:02.147Z",
+    "objectId": "exc5NHZjLb",
+    "className": "ProductCategory"
+  },
+  {
+    "name": "Toys & Games",
+    "description": "Fun and entertaining items for kids and adults",
+    "createdAt": "2024-05-26T23:04:08.541Z",
+    "updatedAt": "2024-05-26T23:04:08.541Z",
+    "objectId": "hQ6cD4GihC",
+    "className": "ProductCategory"
+  },
+  {
+    "name": "Electronics",
+    "description": "Gadgets and electronic devices",
+    "createdAt": "2024-05-26T22:59:02.152Z",
+    "updatedAt": "2024-05-26T22:59:02.152Z",
+    "objectId": "hdTUEnZ6tp",
+    "className": "ProductCategory"
+  },
+  {
+    "name": "Electronics",
+    "description": "Gadgets and electronic devices",
+    "createdAt": "2024-05-26T22:59:56.826Z",
+    "updatedAt": "2024-05-26T22:59:56.826Z",
+    "objectId": "lnC249YPVm",
+    "className": "ProductCategory"
+  },
+  {
+    "name": "Clothing",
+    "description": "Apparel for all seasons",
+    "createdAt": "2024-05-26T22:59:56.807Z",
+    "updatedAt": "2024-05-26T22:59:56.807Z",
+    "objectId": "p8o0jwVBHh",
+    "className": "ProductCategory"
+  },
+  {
+    "name": "Books",
+    "description": "Reading material for every age group",
+    "createdAt": "2024-05-26T22:59:02.151Z",
+    "updatedAt": "2024-05-26T22:59:02.151Z",
+    "objectId": "vm0Lc6ABXY",
+    "className": "ProductCategory"
+  }
+]
